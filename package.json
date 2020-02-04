@@ -1,0 +1,15 @@
+{
+  "name": "imagetagger",
+  "version": "0.0.1",
+  "description": "Adding tags to museum specimen images from specimen records (for NSCF)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Engelbrecht",
+  "license": "ISC",
+  "dependencies": {
+    "exiftool-kit": "^0.1.6",
+    "fs-extra": "^8.1.0"
+  }
+}
